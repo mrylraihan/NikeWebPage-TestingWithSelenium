@@ -18,7 +18,6 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
-
     <build>
         <plugins>
             <plugin>
@@ -36,7 +35,7 @@
                 <version>3.0.0-M3</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFiles>src/test/resources/AmazonRunner.xml</suiteXmlFiles>
+                        <suiteXmlFiles>src/test/resources/NikeRunner.xml</suiteXmlFiles>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

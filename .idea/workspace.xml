@@ -1,20 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="594a52e1-b1ba-4cd9-ad7b-31f5394eef6c" name="Default Changelist" comment="" />
+    <list default="true" id="594a52e1-b1ba-4cd9-ad7b-31f5394eef6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/main/java/homepageNike/AddToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/main/java/homepageNike/Converse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/main/java/homepageNike/CustomizeButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/main/java/homepageNike/GenderButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/main/java/homepageNike/Hurley.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/main/java/homepageNike/Jordan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/main/java/homepageNike/NewRelease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/main/java/homepageNike/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/main/java/homepageNike/SignIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/test/java/SmokeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/test/java/homePageTestsNike/AddToCartTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/test/java/homePageTestsNike/ConverseTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/test/java/homePageTestsNike/CustomizePageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/test/java/homePageTestsNike/FemaleButtonTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/test/java/homePageTestsNike/HurleyTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/test/java/homePageTestsNike/JordanTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/test/java/homePageTestsNike/KidsButtonTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/test/java/homePageTestsNike/MaleButtonTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/test/java/homePageTestsNike/NewReleaseTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/test/java/homePageTestsNike/SearchTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/test/java/homePageTestsNike/SignInTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nike/src/test/resources/NikeRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nike/Nike.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Nike/Nike.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nike/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Nike/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Twitter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Twitter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Twitter/src/test/resources/TwitterRunner.xml.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Twitter/src/test/resources/TwitterRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1RzB2grYr4G3Z90tvlqTUNMcP0Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Netflix/src/test/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Netflix/src/test" />
+      <recent name="$PROJECT_DIR$/Nike/src/test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="homePageTests" />
+      <recent name="homepage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Netflix/src/test/resources" />
+      <recent name="$PROJECT_DIR$/Generic" />
+      <recent name="$PROJECT_DIR$/Twitter/src/test/resources" />
+      <recent name="$PROJECT_DIR$/Nike/src/test/resources" />
+      <recent name="$PROJECT_DIR$/Nike" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -27,6 +102,95 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/wayelraihan/Downloads/Frameworkgroup-master/Nike/src/test/resources/NikeRunner.xml">
+    <configuration name="AddToCartTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Nike" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homePageTests" />
+      <option name="MAIN_CLASS_NAME" value="homePageTestsNike.AddToCartTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConverseTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Nike" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homePageTestsNike" />
+      <option name="MAIN_CLASS_NAME" value="homePageTestsNike.ConverseTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInTest.validateSignInButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Nike" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homePageTests" />
+      <option name="MAIN_CLASS_NAME" value="homePageTestsNike.SignInTest" />
+      <option name="METHOD_NAME" value="validateSignInButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/wayelraihan/Downloads/Frameworkgroup-master/Nike/src/test/resources/NikeRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Nike" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Nike/src/test/resources/NikeRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homepageNike" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Nike" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homepageNike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homepageNike" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/wayelraihan/Downloads/Frameworkgroup-master/Nike/src/test/resources/NikeRunner.xml" />
+        <item itemvalue="TestNG.AddToCartTests" />
+        <item itemvalue="TestNG.ConverseTests" />
+        <item itemvalue="TestNG.homepageNike" />
+        <item itemvalue="TestNG.SignInTest.validateSignInButton" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,7 +210,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
